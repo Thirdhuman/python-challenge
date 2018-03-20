@@ -1172,7 +1172,7 @@ scores_by_school_type.head(2)
 
 4. Cabrera High School (Charter) seemed to perform the best on student metrics, while Rodriguez High School (District) performed the worst.
 
-5. Math seems to be the area where Schools seem to be falling behind the most.
+5. Math seems to be the area where district schools seem to be falling behind the most.
 
 '''
 ```
